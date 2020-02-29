@@ -1,0 +1,21 @@
+[Desktop Entry]
+Comment=Darker Materia Manjaro Style theme with three colorschemes
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Materia Manjaro Dark
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Josh Freeno
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=freefreeno81@gmail.com
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Materia-Manjaro-Dark
+X-KDE-PluginInfo-Version=5.67.0
+X-KDE-PluginInfo-Website=https://github.com/freefreeno/Materia-Manjaro-Dark
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1306504,kns://plasma-themes.knsrc/api.kde-look.org/1306505,kns://aurorae.knsrc/api.kde-look.org/1309265,kns://icons.knsrc/api.kde-look.org/1313094,kns://icons.knsrc/api.kde-look.org/1328981,kns://wallpaper.knsrc/api.kde-look.org/1296893,kns://wallpaper.knsrc/api.kde-look.org/1319754
